@@ -1,4 +1,4 @@
-<hmtl>
+<html>
       <body>
               <script type='text/javascript'>
               	function initEmbeddedMessaging() {
@@ -19,5 +19,5 @@
               	};
               </script>
               <script type='text/javascript' src='https://awaze--msdevelop.sandbox.my.site.com/ESWUKOwnerExperienceTe1705491252379/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-  </body>
+   </body>
 </html>
